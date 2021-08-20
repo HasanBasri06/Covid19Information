@@ -1,4 +1,4 @@
-PHP'nin RegEx modelini kullanarak Covid19 Bİlgilendirme Formu Hazırladım
+PHP'nin RegEx modelini kullanarak worldometers sitesinden Covid19 bilgilerini alarak bilgilendirme Formu Hazırladım
 
 <h2>Projeden Görüntü</h2> <hr>
 
